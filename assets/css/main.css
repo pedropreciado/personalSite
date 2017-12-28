@@ -22,6 +22,14 @@
 		display: block;
 	}
 
+#project-links {
+	margin: 0 auto;
+	margin-bottom: 7%;
+	width: 50%;
+	display: flex;
+	justify-content: space-around;
+}
+
 	.photo {
 		max-width: 68px;
 		max-height: 68px;
