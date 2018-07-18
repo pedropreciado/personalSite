@@ -627,8 +627,8 @@
 			-webkit-pointer-events: none;
 			-ms-pointer-events: none;
 			pointer-events: none;
-			background-image: url("../../images/overlay.png");
-			background-color: rgba(19, 21, 25, 0.5);
+			/* background-image: url("../../images/overlay.png"); */
+			background-color: #343a40;
 			border-radius: 4px;
 			content: '';
 			display: block;
@@ -1110,7 +1110,8 @@
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("../../images/green_croop.jpg");
+      /* background-image: url("../../images/green_croop.jpg"); */
+      background: #343a40;
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
